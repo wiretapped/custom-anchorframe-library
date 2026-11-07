@@ -4,6 +4,7 @@ brand = "Canon"
 source = "https://en.wikipedia.org/wiki/Canon_New_F-1"
 mount = ["canon-fd"]
 formats = ["135"]
+note = "Professional 35 mm SLR (1981–1988). Updated modular system with improved metering and shutter durability over the original F-1."
 
 [[resources]]
 src = "new-f-1.jpg"

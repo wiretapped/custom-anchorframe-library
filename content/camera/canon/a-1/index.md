@@ -4,6 +4,7 @@ brand = "Canon"
 source = "https://en.wikipedia.org/wiki/Canon_A-1"
 mount = ["canon-fd"]
 formats = ["135"]
+note = "Advanced 35 mm SLR (1978). First Canon with programmed autoexposure; also shutter-priority, aperture-priority, and manual. Microprocessor-controlled with LED viewfinder display."
 
 [[resources]]
 src = "a-1.jpg"

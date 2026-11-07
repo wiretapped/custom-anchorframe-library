@@ -4,6 +4,7 @@ brand = "Canon"
 source = "https://en.wikipedia.org/wiki/Canon_AE-1"
 mount = ["canon-fd"]
 formats = ["135"]
+note = "35 mm SLR released 1976. Shutter-priority and manual exposure, electromagnetic cloth shutter, center-weighted metering. Popular early electronically automated amateur camera."
 
 [[resources]]
 src = "ae-1.jpg"

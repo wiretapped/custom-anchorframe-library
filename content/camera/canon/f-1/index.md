@@ -4,6 +4,7 @@ brand = "Canon"
 source = "https://en.wikipedia.org/wiki/Canon_F-1"
 mount = ["canon-fd"]
 formats = ["135"]
+note = "Professional 35 mm SLR (1971). Titanium foil shutter, modular system with interchangeable finders and motor drives. Succeeded by the New F-1 in 1981."
 
 [[resources]]
 src = "f-1.jpg"
