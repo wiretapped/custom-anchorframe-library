@@ -4,6 +4,7 @@ brand = "Nikon"
 source = "https://en.wikipedia.org/wiki/Nikon_F3"
 mount = ["nikon-f"]
 formats = ["135"]
+note = "Professional 35 mm SLR (1980–2001). Electronic modular system with interchangeable finders; high-eyepoint and titanium variants available."
 
 [[resources]]
 src = "f3.jpeg"

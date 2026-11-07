@@ -4,6 +4,7 @@ brand = "Nikon"
 source = "https://en.wikipedia.org/wiki/Nikon_F6"
 mount = ["nikon-f"]
 formats = ["135"]
+note = "Professional 35 mm SLR (2004–present for film). Last professional Nikon film body; 11-point AF, weather-sealed, high durability."
 
 [[resources]]
 src = "f6.jpg"

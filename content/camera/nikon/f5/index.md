@@ -4,6 +4,7 @@ brand = "Nikon"
 source = "https://en.wikipedia.org/wiki/Nikon_F5"
 mount = ["nikon-f"]
 formats = ["135"]
+note = "Professional 35 mm SLR (1996–2004). 5-point AF, high-speed motor drive, weather-sealed; widely used by photojournalists."
 
 [[resources]]
 src = "f5.jpg"

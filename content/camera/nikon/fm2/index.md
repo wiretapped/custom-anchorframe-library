@@ -4,6 +4,7 @@ brand = "Nikon"
 source = "https://en.wikipedia.org/wiki/Nikon_FM2"
 mount = ["nikon-f"]
 formats = ["135"]
+note = "Mechanical 35 mm SLR (1982–2001). Updated FM with higher shutter speeds; titanium shutter in later versions."
 
 [[resources]]
 src = "fm2.jpg"

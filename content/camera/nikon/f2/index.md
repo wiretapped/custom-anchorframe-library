@@ -4,6 +4,7 @@ brand = "Nikon"
 source = "https://en.wikipedia.org/wiki/Nikon_F2"
 mount = ["nikon-f"]
 formats = ["135"]
+note = "Professional 35 mm SLR (1971–1980). Titanium shutter, modular system, successor to the original F."
 
 [[resources]]
 src = "f2.jpg"

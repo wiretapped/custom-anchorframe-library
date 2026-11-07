@@ -4,6 +4,7 @@ brand = "Nikon"
 source = "https://en.wikipedia.org/wiki/Nikon_FE"
 mount = ["nikon-f"]
 formats = ["135"]
+note = "Aperture-priority 35 mm SLR (1978–1983). Electronic shutter with aperture-priority automation; mechanical backup speeds."
 
 [[resources]]
 src = "fe.jpg"

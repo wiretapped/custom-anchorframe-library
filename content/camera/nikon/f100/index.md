@@ -4,6 +4,7 @@ brand = "Nikon"
 source = "https://en.wikipedia.org/wiki/Nikon_F100"
 mount = ["nikon-f"]
 formats = ["135"]
+note = "Professional 35 mm SLR (1999–2006). Compact professional body with 5-point AF and matrix metering."
 
 [[resources]]
 src = "f100.png"

@@ -5,6 +5,7 @@ source = "https://en.wikipedia.org/wiki/Nikon_F"
 mount = ["nikon-f"]
 aliases = ["/camera/nikon/nikkor-f/", "/camera/nikkor/f/"]
 formats = ["135"]
+note = "Professional 35 mm SLR (1959–1973). First Nikon F-mount body; modular system with interchangeable finders and backs."
 
 [[resources]]
 src = "f.jpg"

@@ -4,6 +4,7 @@ brand = "Nikon"
 source = "https://en.wikipedia.org/wiki/Nikon_FA"
 mount = ["nikon-f"]
 formats = ["135"]
+note = "Professional 35 mm SLR (1983–1987). Matrix metering, interchangeable finders, electronic shutter with mechanical backup."
 
 [[resources]]
 src = "fa.jpg"
