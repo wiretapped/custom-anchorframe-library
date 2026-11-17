@@ -2,6 +2,7 @@
 title = "Minox B"
 brand = "Minox"
 source = "https://en.wikipedia.org/wiki/Minox"
+formats = ["8x11"]
 integrated = true
 fixed_lens = "Complan or Minox 15mm"
 note = "8×11 mm subminiature (1958–1972). Selenium meter (honeycomb style in late production), mechanical shutter."
